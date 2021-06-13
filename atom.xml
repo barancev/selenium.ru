@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://webdriver.ru/</id>
+	<title>Selenium WebDriver: автоматизация веб-приложений</title>
+	<updated>2021-06-13T21:29:21+00:00</updated>
+
+	<subtitle>Пишем про Selenium на русском языке</subtitle>
+
+	
+		
+		<author>
+			
+				<name>barancev</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="https://webdriver.ru/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://webdriver.ru/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
+
+	
+</feed>

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://webdriver.ru/sitemap.xml

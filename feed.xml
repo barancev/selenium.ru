@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Selenium WebDriver: автоматизация веб-приложений</title>
+		<description>Пишем про Selenium на русском языке</description>
+		<link>https://webdriver.ru/</link>
+		<atom:link href="https://webdriver.ru/feed.xml" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
